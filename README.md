@@ -1,25 +1,35 @@
-Privacy Policy for TravelSafe: Hidden Cam Finder
-Last Updated: January 25, 2026
+Privacy Policy
 
-TravelSafe ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Last updated: January 2026
 
-1. Information We Access
-Our app requires access to certain features of your device to function correctly. We do NOT collect or store this data on our servers; it is processed locally on your device.
+TravelSafe respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the TravelSafe mobile application.
 
-Camera: Used solely for visual glint detection and AI analysis to identify hidden camera lenses. No photos or videos are recorded, saved, or transmitted.
-Bluetooth: Used to scan for nearby tracking devices (like AirTags or unknown beacons) to ensure your privacy from physical tracking.
-Local Network: Used to scan your Wi-Fi network for suspicious connected devices, such as hidden IP cameras.
-Location: We may request location access to identify the Wi-Fi network name (SSID), which is required by iOS for network scanning.
-2. Third-Party Services
-We use third-party services that may collect information used to identify you:
+Information We Collect
+TravelSafe does not collect, store, or share any personally identifiable information.
 
-Google AdMob: Used to display advertisements. AdMob may collect device identifiers (IDFA) to provide personalized ads. You can manage this in your device settings.
-MacVendors API: Used to identify the manufacturer of devices found on your network. Only the MAC address prefix (first 6 characters) is sent to this API.
-3. Data Storage
-We do not have a backend server. All scan results and app data remain on your physical device. If you delete the app, all associated data is removed.
+The app may access the following device features solely to provide core functionality:
+• Camera – used for detecting camera lenses and infrared light
+• Motion Sensors – used for the anti-theft alarm feature
+• Magnetometer – used to detect magnetic fields
+• Local Network Access – used to scan nearby devices on your Wi-Fi network
 
-4. Children’s Privacy
-Our app is not intended for children under 13. We do not knowingly collect personal data from children.
+All processing is performed locally on your device. No scanned data, images, or network information is transmitted to our servers or third parties.
 
-5. Contact Us
-If you have any questions regarding this Privacy Policy, please contact us at: [YOUR_EMAIL_HERE]# IOS
+Subscriptions & Payments
+All payments and subscriptions are processed securely by Apple through the App Store. We do not have access to your payment information.
+
+Third-Party Services
+TravelSafe does not use third-party analytics, advertising SDKs, or tracking technologies.
+
+Data Security
+We take reasonable measures to protect your data. Since TravelSafe does not store user data, there is no risk of data leakage from our servers.
+
+Children’s Privacy
+TravelSafe is not intended for children under the age of 13 and does not knowingly collect personal data from children.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+support@yourdomain.com
